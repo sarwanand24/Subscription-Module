@@ -3,6 +3,6 @@ A subscription module interface
 
 [Demo here](https://internship-project24.web.app)
 
-#About the Mobile View
+# About the Mobile View
 
--You can touch and drag the subscription module to go to the next module.
+- You can touch and drag the subscription module to go to the next module.
